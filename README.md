@@ -7,7 +7,7 @@ Freestyle Build with Git & Maven** — the most fundamental Jenkins practice to 
 
 ### 🎯 **Goal:**
 
-Clone a Java Maven project from GitHub and build it inside Jenkins using Maven.
+Clone a Java Maven project from GitHub and build it inside Jenkins using Maven. 
 
 ---
 
